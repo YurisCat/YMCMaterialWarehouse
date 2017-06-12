@@ -1,0 +1,23 @@
+{
+	"parent": "builtin/generated",
+	"textures": {
+		"layer0": "fmltutor:items/tech_egg"
+	},
+	"display": {
+		  "ground": {
+			"rotation": [ -45, 45, 45 ],
+			"translation": [ 0, 1, -2 ],
+			"scale": [ 10.01, 10.01, 10.01 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ -90, 0, 0 ],
+			"translation": [ 0, 1, -2 ],
+			"scale": [ 20.05, 20.05, 20.05 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, -135, 25 ],
+			"translation": [ 0, 4, 2 ],
+			"scale": [ 10.5, 10.5, 10.5 ]
+		}	
+	}
+}
